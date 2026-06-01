@@ -63,7 +63,7 @@ Real-time data streaming + anomaly detection (Isolation Forest) + ARIMA forecast
 
 ## Currently building
 
-> *(Add one line here — what you're working on right now. Even "Experimenting with agentic workflows using LangGraph" works.)*
+> *Experimenting with agentic workflows using LangGraph*
 
 ---
 

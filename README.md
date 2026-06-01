@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tanisha 👋</h1>
+<h1 align="center">Hi, I'm Tanisha </h1>
 
 <p align="center">
   <b>AI/ML Engineer</b> · Building with LLMs, RAG pipelines & Agentic AI<br/>
